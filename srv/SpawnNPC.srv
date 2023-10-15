@@ -1,0 +1,4 @@
+int32 n
+bool autopilot_state
+---
+bool success
